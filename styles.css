@@ -94,6 +94,9 @@ a {
   color: #F8F1E5;
 }
 
+#site-logo:hover{
+  transform: scale(1.1) !important;
+}
 
 /* New Header */
 .navbar-brand{
